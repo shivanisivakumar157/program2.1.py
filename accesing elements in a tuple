@@ -1,0 +1,5 @@
+tup1=("blue","green","orange","black","white")
+print(tup1[0])
+print(tup1[1])
+print(tup1[2])
+
